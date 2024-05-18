@@ -1,2 +1,2 @@
-# EasyTrain-Chatbot
+# Chatbot
 
